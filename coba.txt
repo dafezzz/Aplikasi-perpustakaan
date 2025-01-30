@@ -1,1 +1,5 @@
 ini adalah pembuatan pembuatan file di branch
+ini baris ke 2 buatnya di branch main
+baris ke 2 secara search main
+membuat file ke 4 seteleh beres di commit
+membuat ke 5 seetelah file commit 
