@@ -1,7 +1,6 @@
 ini adalah pembuatan pembuatan file di branch
 ini baris ke 2 buatnya di branch main
-baris ke 2 secara search main
-membuat file ke 4 seteleh beres di commit
-membuat ke 5 seetelah file commit 
+menambahkan baris ke 4 setelah pembuat file (proses di commit 2)
+menambahkan baris ke 5 setelah pembuat file (proses di commit 2)
 menambahkan baris ke 6 setelah pembuat file (proses di commit 3)
 menambahkan baris ke 7 setelah pembuat file (proses di commit 3)
